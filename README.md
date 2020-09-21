@@ -1,1 +1,1 @@
-# beasthyper1
+# beasthyper1[![Run on Repl.it](https://repl.it/badge/github/beastkidyt/beasthyper1)](https://repl.it/github/beastkidyt/beasthyper1)
